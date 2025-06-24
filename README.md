@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/gabrielcaixeta01">
-   <img height="180em" alt="Gabriel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gabrielcaixeta01&show_icons=true&theme=tokyonight" />
-   <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaixeta01&theme=tokyonight&layout=compact&hide=html" />
+   <img height="180em" alt="Gabriel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gabrielcaixeta01&show_icons=true&theme=midnight-purple" />
+   <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaixeta01&theme=midnight-purple&layout=compact&hide=html" />
 </a>
 </div>
 
