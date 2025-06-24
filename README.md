@@ -1,7 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Gabriel Caixeta</h1>
-<h3 align="center">Studying Computer Engineering at the University of Brasília (UnB)</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&height=40&lines=Hi%2C+I+am+Gabriel+Caixeta;Studying+Computer+Engineering" alt="Typing SVG" />
+  </a>
+</div>
 
 ##
 
@@ -12,7 +15,7 @@
   <a href="https://github.com/gabrielcaixeta01">
    <img height="180em" alt="Gabriel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gabrielcaixeta01&show_icons=true&theme=algolia" />
    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaixeta01&theme=algolia&layout=compact&hide=html" />
-</a>
+  </a>
 </div>
 
 ##
