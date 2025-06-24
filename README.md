@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1E3F,3B0A68,4C1D95&height=120&section=header&t=1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A0F2C,1D4ED8,60A5FA&height=120&section=header&t=2"/>
 
 <h1 align="center">Hi 👋, I'm Gabriel Caixeta</h1>
 <h3 align="center">Studying Computer Engineering at the University of Brasília (UnB)</h3>
@@ -17,14 +17,18 @@
 
 ##
 
+### 📈 Contribution Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielcaixeta01&theme=algolia)
+
+##
+
 ### 🔧 Tools I Work With:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
@@ -50,10 +54,4 @@
   <a href="https://www.linkedin.com/in/gabriel-caixeta-romero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
-### 🐍 GitHub Snake (Commits Animation)
-
-![snake gif](https://github.com/gabrielcaixeta01/gabrielcaixeta01/blob/output/github-contribution-grid-snake.svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1E3F,3B0A68,4C1D95&height=120&section=footer&t=1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A0F2C,1D4ED8,60A5FA&height=120&section=footer&t=2"/>
