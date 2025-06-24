@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&height=40&lines=Hi%2C+I+am+Gabriel+Caixeta;Studying+Computer+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Hi%2C+I+am+Gabriel+Caixeta;Studying+Computer+Engineering; Welcome+to+my+profile+!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,12 +17,6 @@
    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaixeta01&theme=algolia&layout=compact&hide=html" />
   </a>
 </div>
-
-##
-
-### 📈 Contribution Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielcaixeta01&theme=github-compact&color=1D4ED8)
 
 ##
 
