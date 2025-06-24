@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A0F2C,1D4ED8,60A5FA&height=120&section=header&t=2"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Gabriel Caixeta</h1>
 <h3 align="center">Studying Computer Engineering at the University of Brasília (UnB)</h3>
@@ -19,7 +19,7 @@
 
 ### 📈 Contribution Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielcaixeta01&theme=algolia)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielcaixeta01&theme=github-compact&color=1D4ED8)
 
 ##
 
@@ -54,4 +54,4 @@
   <a href="https://www.linkedin.com/in/gabriel-caixeta-romero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A0F2C,1D4ED8,60A5FA&height=120&section=footer&t=2"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer"/>
