@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3F0071,4B0082,6A0DAD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1E3F,3B0A68,4C1D95&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Gabriel Caixeta</h1>
 <h3 align="center">Studying Computer Engineering at the University of Brasília (UnB)</h3>
@@ -22,9 +22,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
@@ -56,4 +54,4 @@
 
 ![snake gif](https://github.com/gabrielcaixeta01/gabrielcaixeta01/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3F0071,4B0082,6A0DAD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1E3F,3B0A68,4C1D95&height=120&section=footer"/>
