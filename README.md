@@ -11,13 +11,6 @@
 - 👨‍🎓 Studying Computer Engineering at the University of Brasília - UnB  
 - 👨‍💻 Full-Stack Developer (Next.js, NestJS, Prisma, PostgreSQL)
 
-<div align="center">
-  <a href="https://github.com/gabrielcaixeta01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaixeta01&show_icons=true&theme=algolia" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaixeta01&theme=algolia&layout=compact&hide=html" />
-  </a>
-</div>
-
 ##
 
 ### 🔧 Tools I Work With:
