@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header&text=Gabriel%20Caixeta&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Gabriel%20Caixeta&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%7C%20ML%20%26%20Backend%20Engineer&descAlignY=55&descSize=18" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Engineering+%40+UnB+%F0%9F%8E%93;Next.js+%7C+NestJS+%7C+TypeScript+%E2%9C%A8;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Machine+Learning+Engineer+in+the+making+%F0%9F%A4%96;Computer+Engineering+%40+UnB+%F0%9F%8E%93;Python+%7C+C%2B%2B+%7C+ML+Systems+%E2%9C%A8;Building+real-time+ML+for+finance+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
   <a href="mailto:gabrielcaixetaromero@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=gabrielcaixeta01&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=gabrielcaixeta01&color=0891b2&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -24,49 +24,74 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** at the University of Brasília (UnB) and a **Full-Stack Developer** passionate about building scalable, modern web applications. I enjoy turning complex problems into elegant, user-friendly solutions.
+I'm a **Computer Engineering student** at the University of Brasília (UnB) focused on
+**machine learning engineering** — building ML systems that run in production, not just in
+notebooks. My background in algorithms (competitive programming in C++) and systems gives me
+the engineering foundation to take models from training to real-time serving.
 
-- 🎓 Studying **Computer Engineering** @ UnB — Brasília, Brazil
-- 💼 Working with **Next.js**, **NestJS**, **Prisma** and **PostgreSQL**
-- 🌱 Currently deepening my knowledge in **software architecture** and **distributed systems**
-- ⚡ Fun fact: I love coffee as much as I love clean code
+- 🎓 Computer Engineering @ UnB — Brasília, Brazil
+- 🤖 Focused on **applied ML**, **MLOps**, and **ML for finance** (fraud, risk, trading signals)
+- ⚙️ Strong in **Python**, **C++**, data pipelines, and low-latency systems
+- 🌱 Currently building a **real-time fraud detection system** (streaming ML + drift monitoring)
+- ⚡ Competitive programming background (algorithms & data structures)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Main Stack
+### 🤖 Machine Learning & Data
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+</div>
+
+### ⚙️ Systems & Backend
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</div>
+
+### 🚀 DevOps & Workflow
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</div>
+
+### 🌐 Also experienced with
 
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </div>
 
-### 🧰 Tools and Technologies
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-</div>
+## 🔬 Featured Project
 
-### ⚙️ DevOps and Workflow
+### ⚡ Real-Time Fraud Detection System
+A streaming ML system that scores financial transactions in real time — the focus is
+**production engineering around ML**, not a model in a notebook. Transactions arrive as a
+stream, velocity features are computed live, each transaction is scored in milliseconds, and
+the system monitors itself for latency and **model drift**.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</div>
+`Python` · `LightGBM` · `Redis Streams / Kafka` · `FastAPI` · `Docker` · `MLOps`
+
+➡️ [**View the project**](https://github.com/gabrielcaixeta01/fraud-detection-realtime)
 
 ---
 
@@ -104,4 +129,4 @@ I'm a **Computer Engineering student** at the University of Brasília (UnB) and 
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
